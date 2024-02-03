@@ -3,11 +3,11 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: teal;
+    background: rgb(31, 5, 37);
 }
 
 h1 {
-    font-size: 16rem;
+    font-size: 19rem;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
